@@ -39,9 +39,57 @@ const img = (path) => {
 // ============================================================
 
 export const dessertsData = [
-  { porcentaje: 'Porcentaje de votos bajo', p1: '#6baed6', p2: '#fd8d3c', p3: '#A569BD', p4: '#f8c89c', p5: '#F48fb1', p6: '#f48fb1', p7: '#F1948A', p8: '#8c8c8c', p9: '#7DCEA0', p10: '#907761', p11: '#F4D03F', p12: '#54C3F2', p13: '#fb887d', p14: '#f3d367', p15: '#85c1e9', p16: '#CF77B0' },
-  { porcentaje: 'Porcentaje de votos medio', p1: '#3182bd', p2: '#e6550d', p3: '#8E44AD', p4: '#f2b77c',  p5: '#EC655D', p6: '#f06292', p7: '#EC7063', p8: '#5f5f5f', p9: '#52BE80', p10: '#7e634e', p11: '#F1C40F', p12: '#27B4EF', p13: '#ef7e73', p14: '#c29b2b', p15: '#5dade2', p16: '#c5599f' },
-  { porcentaje: 'Mayor porcentaje de votos', p1: '#08519c', p2: '#a63603', p3: '#7D3C98', p4: '#e69237', p5: '#E1251B', p6: '#e91e63', p7: '#E74C3C', p8: '#4a4a4a', p9: '#229954', p10: '#553d2a', p11: '#D4AC0D', p12: '#1097D1', p13: '#e37469', p14: '#8f6e0f', p15: '#3498db', p16: '#b5408c' }
+{ porcentaje: 'Porcentaje de votos bajo', 
+   p1: '#6baed6', 
+   p2: '#fd8d3c', 
+   p3: '#fff5cc', 
+   p4: '#f8c89c',
+   p5: '#F48fb1',
+   p6: '#f48fb1',
+   p7: '#D4E157',
+   p8: '#8c8c8c', 
+   p9: '#7DCEA0', 
+   p10: '#907761',
+   p11: '#F4D03F',
+   p12: '#54C3F2',
+   p13: '#fb887d',
+   p14: '#f3d367',
+   p15: '#85c1e9', 
+   p16: '#CF77B0' },
+  { porcentaje: 'Porcentaje de votos medio', 
+   p1: '#3182bd',
+   p2: '#e6550d', 
+   p3: '#ffe57f', 
+   p4: '#f2b77c', 
+   p5: '#F48fb1',
+   p6: '#f06292', 
+   p7: '#9CCC65',
+   p8: '#5f5f5f',
+   p9: '#52BE80',
+   p10: '#7e634e',
+   p11: '#F1C40F',
+   p12: '#27B4EF', 
+   p13: '#ef7e73', 
+   p14: '#c29b2b', 
+   p15: '#5dade2',
+   p16: '#c5599f' },
+  { porcentaje: 'Mayor porcentaje de votos', 
+   p1: '#08519c', 
+   p2: '#a63603', 
+   p3: '#FFD700',
+   p4: '#e69237', 
+   p5: '#E1251B',
+   p6: '#e91e63',
+   p7: '#556B2F',
+   p8: '#4a4a4a',
+   p9: '#229954',
+   p10: '#553d2a',
+   p11: '#D4AC0D', 
+   p12: '#1097D1', 
+   p13: '#e37469',
+   p14: '#8f6e0f',
+   p15: '#3498db',
+   p16: '#b5408c' }
 ];
 
 // ============================================================
@@ -57,7 +105,7 @@ export const candidatoData = [
     logo: img("logos_partidos_politicos/1996/DP_1996.png"), 
     color: "#009933", 
     nombrePartido: "DEMOCRACIA POPULAR",  
-    json: "DP" 
+    json: "DP-5" 
   },
   {
     partido: 2,
@@ -66,7 +114,7 @@ export const candidatoData = [
     logo: img('logos_partidos_politicos/1996/PSC_1996.png'),
     color: '#FFD700',
     nombrePartido: 'PSC-6',
-    json: '2'
+    json: 'PSC-6'
   },
   {
     partido: 3,
@@ -75,7 +123,7 @@ export const candidatoData = [
     logo: img('logos_partidos_politicos/1996/PARTIDO ROLDOSISTA ECUATORIANO.png'),
     color: '#FFD700',
     nombrePartido: 'PRE-10',
-    json: '3'
+    json: 'PRE-10'
   },
   {
     partido: 4,
@@ -93,7 +141,7 @@ export const candidatoData = [
     logo: img('logos_partidos_politicos/1996/MOVIMIENTO POPULAR DEMOCRATICO.png'),
     color: '#E1251B',
     nombrePartido: 'MPD-2',
-    json: 'MOVIMIENTO POPULAR DEMOCRATICO'
+    json: 'MPD-15'
   },
   {
     partido: 6,
@@ -102,7 +150,7 @@ export const candidatoData = [
     logo: img('partidos/CREO.png'),
     color: '#e91e63',
     nombrePartido: 'MUPP-NP-18',
-    json: '6'
+    json: 'MUPP-NP-18'
   },
 {
     partido: 7,
@@ -110,8 +158,8 @@ export const candidatoData = [
     url: img("imagenes_presidentes/1996/gallardo_1996.png"), 
     logo: img("logos_partidos_politicos/1996/uci_1996.png"), 
     color: '#E74C3C',
-    nombrePartido: "COMPLETAR", 
-    json: "COMPLETAR" 
+    nombrePartido: "UCI-19", 
+    json: "UCI-19" 
   },
   {
     partido: 8,
@@ -129,7 +177,7 @@ export const candidatoData = [
     logo: img('partidos/UNO.png'),
     color: '#229954',
     nombrePartido: 'PLRE-FRA-2/14',
-    json: '9'
+    json: 'PLRE-FRA-2/14'
   },
   {
     partido: 10,
