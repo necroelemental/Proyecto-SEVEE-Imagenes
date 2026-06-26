@@ -53,38 +53,38 @@ export const candidatoData = [
   {
     partido: 1,
     nombre: 'PAZ RODRIGO',
-    url: img('candidatos/1.png'),
-    logo: img('partidos/ACTUEMOS.png'),
-    color: '#08519c',
-    nombrePartido: 'DP-5',
-    json: '1'
+    url: img("imagenes_presidentes/1996/RODRIGOPAZ_1996.png"), 
+    logo: img("logos_partidos_politicos/1996/DP_1996.png"), 
+    color: "#009933", 
+    nombrePartido: "DEMOCRACIA POPULAR",  
+    json: "DP" 
   },
   {
     partido: 2,
     nombre: 'NEBOT JAIME',
-    url: img('candidatos/2.png'),
-    logo: img('partidos/ADN.png'),
-    color: '#a63603',
+    url: img('imagenes_presidentes/1996/JAIME_NEBOT_PSC_1996.png'),
+    logo: img('logos_partidos_politicos/1996/PSC_1996.png'),
+    color: '#FFD700',
     nombrePartido: 'PSC-6',
     json: '2'
   },
   {
     partido: 3,
     nombre: 'BUCARAM ABDALA',
-    url: img('candidatos/3.png'),
-    logo: img('partidos/AMIGO.png'),
-    color: '#7D3C98',
+    url: img('imagenes_presidentes/1996/ABDALABUCARAM_1996.png'),
+    logo: img('logos_partidos_politicos/1996/PARTIDO ROLDOSISTA ECUATORIANO.png'),
+    color: '#FFD700',
     nombrePartido: 'PRE-10',
     json: '3'
   },
   {
     partido: 4,
     nombre: 'VARGAS FRANK',
-    url: img('candidatos/4.png'),
-    logo: img('partidos/CLARO QUE SE PUEDE.png'),
+    url: img('imagenes_presidentes/1996/FrankVargasPazzos_1996.png'),
+    logo: img('logos_partidos_politicos/1996/APRE_13_1996'),
     color: '#e69237',
     nombrePartido: 'APRE-13',
-    json: '4'
+    json: 'APRE-13'
   },
   {
     partido: 5,
@@ -104,23 +104,23 @@ export const candidatoData = [
     nombrePartido: 'MUPP-NP-18',
     json: '6'
   },
-  {
+{
     partido: 7,
     nombre: 'GALLARDO JOSE',
-    url: img('candidatos/7.png'),
-    logo: img('partidos/PSC.png'),
+    url: img("imagenes_presidentes/1996/gallardo_1996.png"), 
+    logo: img("logos_partidos_politicos/1996/uci_1996.png"), 
     color: '#E74C3C',
-    nombrePartido: 'UCI-19',
-    json: '7'
+    nombrePartido: "COMPLETAR", 
+    json: "COMPLETAR" 
   },
   {
     partido: 8,
     nombre: 'VALAZQUEZ JACINTO',
-    url: img('candidatos/8.png'),
-    logo: img('partidos/RETO.png'),
+    url: img('imagenes_presidentes/1996/Jacinto_Valazquez.png'),
+    logo: img(''),
     color: '#4a4a4a',
     nombrePartido: 'MITI-20',
-    json: '8'
+    json: 'MITI-20'
   },
   {
     partido: 9,
@@ -130,5 +130,14 @@ export const candidatoData = [
     color: '#229954',
     nombrePartido: 'PLRE-FRA-2/14',
     json: '9'
+  },
+  {
+    partido: 10,
+    nombre: 'EMPATE',
+    url: img(''),
+    logo: img(''),
+    color: '#808080',
+    nombrePartido: 'EMPATE',
+    json: 'EMPATE'
   }
 ];
