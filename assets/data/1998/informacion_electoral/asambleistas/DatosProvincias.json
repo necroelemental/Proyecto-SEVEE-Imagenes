@@ -1,65 +1,1493 @@
 [
-  {
-    "CODPRO": "01",
-    "PROVINCIA": "AZUAY",
-    "votos_validos": 448492,
-    "votos_blancos": 8775,
-    "votos_nulos": 37454,
-    "votos_total": 494721,
-    "ganador": "ADN",
-    "resultados": {
-      "ADN": {
-        "candidato": "DANIEL NOBOA AZIN",
-        "votos": 206001,
-        "porcentaje": 45.93
-      },
-      "RC5": {
-        "candidato": "LUISA GONZALEZ",
-        "votos": 190000,
-        "porcentaje": 42.36
-      }
+    {
+        "CODPRO": "01",
+        "PROVINCIA": "AZUAY",
+        "votos_validos": 181969,
+        "votos_blancos": 26408,
+        "votos_nulos": 24798,
+        "votos_total": 233175,
+        "ganador": "ID",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 10296,
+                "porcentaje": 5.66
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 769,
+                "porcentaje": 0.42
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 39726,
+                "porcentaje": 21.83
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 29051,
+                "porcentaje": 15.96
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 11392,
+                "porcentaje": 6.26
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 2984,
+                "porcentaje": 1.64
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 52010,
+                "porcentaje": 28.58
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 487,
+                "porcentaje": 0.27
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1166,
+                "porcentaje": 0.64
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 7699,
+                "porcentaje": 4.23
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 471,
+                "porcentaje": 0.26
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 25918,
+                "porcentaje": 14.24
+            }
+        }
+    },
+    {
+        "CODPRO": "02",
+        "PROVINCIA": "BOLIVAR",
+        "votos_validos": 45225,
+        "votos_blancos": 8964,
+        "votos_nulos": 12826,
+        "votos_total": 67015,
+        "ganador": "PSC",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 1604,
+                "porcentaje": 3.55
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 338,
+                "porcentaje": 0.75
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 9007,
+                "porcentaje": 19.92
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 9897,
+                "porcentaje": 21.88
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 4897,
+                "porcentaje": 10.83
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 370,
+                "porcentaje": 0.82
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 8430,
+                "porcentaje": 18.64
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 312,
+                "porcentaje": 0.69
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1117,
+                "porcentaje": 2.47
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 2153,
+                "porcentaje": 4.76
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 437,
+                "porcentaje": 0.97
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 6663,
+                "porcentaje": 14.73
+            }
+        }
+    },
+    {
+        "CODPRO": "03",
+        "PROVINCIA": "CAÑAR",
+        "votos_validos": 56764,
+        "votos_blancos": 8423,
+        "votos_nulos": 11822,
+        "votos_total": 77009,
+        "ganador": "MCNP",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 2716,
+                "porcentaje": 4.78
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 232,
+                "porcentaje": 0.41
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 8405,
+                "porcentaje": 14.81
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 10425,
+                "porcentaje": 18.37
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 6814,
+                "porcentaje": 12.0
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 434,
+                "porcentaje": 0.76
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 9463,
+                "porcentaje": 16.67
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 210,
+                "porcentaje": 0.37
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 375,
+                "porcentaje": 0.66
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 4892,
+                "porcentaje": 8.62
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 243,
+                "porcentaje": 0.43
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 12555,
+                "porcentaje": 22.12
+            }
+        }
+    },
+    {
+        "CODPRO": "04",
+        "PROVINCIA": "CARCHI",
+        "votos_validos": 53425,
+        "votos_blancos": 5952,
+        "votos_nulos": 9995,
+        "votos_total": 69372,
+        "ganador": "ID",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 8824,
+                "porcentaje": 16.52
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 190,
+                "porcentaje": 0.36
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 7321,
+                "porcentaje": 13.7
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 6486,
+                "porcentaje": 12.14
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 6568,
+                "porcentaje": 12.29
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 306,
+                "porcentaje": 0.57
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 11926,
+                "porcentaje": 22.32
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 371,
+                "porcentaje": 0.69
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 928,
+                "porcentaje": 1.74
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 5568,
+                "porcentaje": 10.42
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 126,
+                "porcentaje": 0.24
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 4811,
+                "porcentaje": 9.01
+            }
+        }
+    },
+    {
+        "CODPRO": "05",
+        "PROVINCIA": "COTOPAXI",
+        "votos_validos": 96054,
+        "votos_blancos": 22485,
+        "votos_nulos": 24797,
+        "votos_total": 143336,
+        "ganador": "ID",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 4371,
+                "porcentaje": 4.55
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 674,
+                "porcentaje": 0.7
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 17262,
+                "porcentaje": 17.97
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 15433,
+                "porcentaje": 16.07
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 10441,
+                "porcentaje": 10.87
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 1203,
+                "porcentaje": 1.25
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 18141,
+                "porcentaje": 18.89
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 1427,
+                "porcentaje": 1.49
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 3466,
+                "porcentaje": 3.61
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 8979,
+                "porcentaje": 9.35
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 656,
+                "porcentaje": 0.68
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 14001,
+                "porcentaje": 14.58
+            }
+        }
+    },
+    {
+        "CODPRO": "06",
+        "PROVINCIA": "CHIMBORAZO",
+        "votos_validos": 119483,
+        "votos_blancos": 23467,
+        "votos_nulos": 32760,
+        "votos_total": 175710,
+        "ganador": "ID",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 4616,
+                "porcentaje": 3.86
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 2552,
+                "porcentaje": 2.14
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 20448,
+                "porcentaje": 17.11
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 16401,
+                "porcentaje": 13.73
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 12105,
+                "porcentaje": 10.13
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 6290,
+                "porcentaje": 5.26
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 27822,
+                "porcentaje": 23.29
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 1011,
+                "porcentaje": 0.85
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 2583,
+                "porcentaje": 2.16
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 9936,
+                "porcentaje": 8.32
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 717,
+                "porcentaje": 0.6
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 15002,
+                "porcentaje": 12.56
+            }
+        }
+    },
+    {
+        "CODPRO": "07",
+        "PROVINCIA": "EL ORO",
+        "votos_validos": 158099,
+        "votos_blancos": 14740,
+        "votos_nulos": 24074,
+        "votos_total": 196913,
+        "ganador": "PRE",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 10367,
+                "porcentaje": 6.56
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 1658,
+                "porcentaje": 1.05
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 19377,
+                "porcentaje": 12.26
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 42159,
+                "porcentaje": 26.67
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 46687,
+                "porcentaje": 29.53
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 2292,
+                "porcentaje": 1.45
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 14712,
+                "porcentaje": 9.31
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 729,
+                "porcentaje": 0.46
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 2769,
+                "porcentaje": 1.75
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 7814,
+                "porcentaje": 4.94
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 680,
+                "porcentaje": 0.43
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 8855,
+                "porcentaje": 5.6
+            }
+        }
+    },
+    {
+        "CODPRO": "08",
+        "PROVINCIA": "ESMERALDAS",
+        "votos_validos": 80107,
+        "votos_blancos": 11348,
+        "votos_nulos": 19014,
+        "votos_total": 110469,
+        "ganador": "PRE",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 2779,
+                "porcentaje": 3.47
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 441,
+                "porcentaje": 0.55
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 11250,
+                "porcentaje": 14.04
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 17069,
+                "porcentaje": 21.31
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 31935,
+                "porcentaje": 39.87
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 806,
+                "porcentaje": 1.01
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 4593,
+                "porcentaje": 5.73
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 1033,
+                "porcentaje": 1.29
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1619,
+                "porcentaje": 2.02
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 5328,
+                "porcentaje": 6.65
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 244,
+                "porcentaje": 0.3
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 3010,
+                "porcentaje": 3.76
+            }
+        }
+    },
+    {
+        "CODPRO": "09",
+        "PROVINCIA": "GUAYAS",
+        "votos_validos": 964409,
+        "votos_blancos": 103671,
+        "votos_nulos": 119531,
+        "votos_total": 1187611,
+        "ganador": "PSC",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 28024,
+                "porcentaje": 2.91
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 9198,
+                "porcentaje": 0.95
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 176334,
+                "porcentaje": 18.28
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 360264,
+                "porcentaje": 37.36
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 251517,
+                "porcentaje": 26.08
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 10413,
+                "porcentaje": 1.08
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 37513,
+                "porcentaje": 3.89
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 4310,
+                "porcentaje": 0.45
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 5335,
+                "porcentaje": 0.55
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 20653,
+                "porcentaje": 2.14
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 2746,
+                "porcentaje": 0.28
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 58102,
+                "porcentaje": 6.02
+            }
+        }
+    },
+    {
+        "CODPRO": "10",
+        "PROVINCIA": "IMBABURA",
+        "votos_validos": 97076,
+        "votos_blancos": 16265,
+        "votos_nulos": 24851,
+        "votos_total": 138192,
+        "ganador": "ID",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 4523,
+                "porcentaje": 4.66
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 431,
+                "porcentaje": 0.44
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 16972,
+                "porcentaje": 17.48
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 13520,
+                "porcentaje": 13.93
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 11578,
+                "porcentaje": 11.93
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 858,
+                "porcentaje": 0.88
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 22074,
+                "porcentaje": 22.74
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 1047,
+                "porcentaje": 1.08
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 987,
+                "porcentaje": 1.02
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 6723,
+                "porcentaje": 6.93
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 448,
+                "porcentaje": 0.46
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 17915,
+                "porcentaje": 18.45
+            }
+        }
+    },
+    {
+        "CODPRO": "11",
+        "PROVINCIA": "LOJA",
+        "votos_validos": 113715,
+        "votos_blancos": 12088,
+        "votos_nulos": 20445,
+        "votos_total": 146248,
+        "ganador": "DP",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 4642,
+                "porcentaje": 4.08
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 10896,
+                "porcentaje": 9.58
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 30005,
+                "porcentaje": 26.39
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 20502,
+                "porcentaje": 18.03
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 13038,
+                "porcentaje": 11.47
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 1734,
+                "porcentaje": 1.52
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 15733,
+                "porcentaje": 13.84
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 1366,
+                "porcentaje": 1.2
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1756,
+                "porcentaje": 1.54
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 4088,
+                "porcentaje": 3.59
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 186,
+                "porcentaje": 0.16
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 9769,
+                "porcentaje": 8.59
+            }
+        }
+    },
+    {
+        "CODPRO": "12",
+        "PROVINCIA": "LOS RIOS",
+        "votos_validos": 167471,
+        "votos_blancos": 30299,
+        "votos_nulos": 30002,
+        "votos_total": 227772,
+        "ganador": "PRE",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 6182,
+                "porcentaje": 3.69
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 1549,
+                "porcentaje": 0.92
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 28204,
+                "porcentaje": 16.84
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 46092,
+                "porcentaje": 27.52
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 67388,
+                "porcentaje": 40.24
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 1508,
+                "porcentaje": 0.9
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 4006,
+                "porcentaje": 2.39
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 1177,
+                "porcentaje": 0.7
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1927,
+                "porcentaje": 1.15
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 3905,
+                "porcentaje": 2.33
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 411,
+                "porcentaje": 0.25
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 5122,
+                "porcentaje": 3.06
+            }
+        }
+    },
+    {
+        "CODPRO": "13",
+        "PROVINCIA": "MANABI",
+        "votos_validos": 305209,
+        "votos_blancos": 57119,
+        "votos_nulos": 53565,
+        "votos_total": 415893,
+        "ganador": "PRE",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 27839,
+                "porcentaje": 9.12
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 3716,
+                "porcentaje": 1.22
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 53402,
+                "porcentaje": 17.5
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 73596,
+                "porcentaje": 24.11
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 90900,
+                "porcentaje": 29.78
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 9338,
+                "porcentaje": 3.06
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 14160,
+                "porcentaje": 4.64
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 6062,
+                "porcentaje": 1.99
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 7405,
+                "porcentaje": 2.43
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 5032,
+                "porcentaje": 1.65
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 652,
+                "porcentaje": 0.21
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 13107,
+                "porcentaje": 4.29
+            }
+        }
+    },
+    {
+        "CODPRO": "14",
+        "PROVINCIA": "MORONA SANTIAGO",
+        "votos_validos": 22175,
+        "votos_blancos": 3257,
+        "votos_nulos": 5236,
+        "votos_total": 30668,
+        "ganador": "MCNP",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 1967,
+                "porcentaje": 8.87
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 112,
+                "porcentaje": 0.51
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 3036,
+                "porcentaje": 13.69
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 2377,
+                "porcentaje": 10.72
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 2567,
+                "porcentaje": 11.58
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 259,
+                "porcentaje": 1.17
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 3035,
+                "porcentaje": 13.69
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 140,
+                "porcentaje": 0.63
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1332,
+                "porcentaje": 6.01
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 1843,
+                "porcentaje": 8.31
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 77,
+                "porcentaje": 0.35
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 5430,
+                "porcentaje": 24.49
+            }
+        }
+    },
+    {
+        "CODPRO": "15",
+        "PROVINCIA": "NAPO",
+        "votos_validos": 33357,
+        "votos_blancos": 4157,
+        "votos_nulos": 7707,
+        "votos_total": 45221,
+        "ganador": "MCNP",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 2177,
+                "porcentaje": 6.53
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 288,
+                "porcentaje": 0.86
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 5551,
+                "porcentaje": 16.64
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 2868,
+                "porcentaje": 8.6
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 2341,
+                "porcentaje": 7.02
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 537,
+                "porcentaje": 1.61
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 3118,
+                "porcentaje": 9.35
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 537,
+                "porcentaje": 1.61
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 5316,
+                "porcentaje": 15.94
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 3134,
+                "porcentaje": 9.4
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 105,
+                "porcentaje": 0.31
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 7385,
+                "porcentaje": 22.14
+            }
+        }
+    },
+    {
+        "CODPRO": "16",
+        "PROVINCIA": "PASTAZA",
+        "votos_validos": 14744,
+        "votos_blancos": 1753,
+        "votos_nulos": 3345,
+        "votos_total": 19842,
+        "ganador": "ID",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 2787,
+                "porcentaje": 18.9
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 69,
+                "porcentaje": 0.47
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 2192,
+                "porcentaje": 14.87
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 1435,
+                "porcentaje": 9.73
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 1030,
+                "porcentaje": 6.99
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 311,
+                "porcentaje": 2.11
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 3361,
+                "porcentaje": 22.8
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 220,
+                "porcentaje": 1.49
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 77,
+                "porcentaje": 0.52
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 1535,
+                "porcentaje": 10.41
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 278,
+                "porcentaje": 1.89
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 1449,
+                "porcentaje": 9.83
+            }
+        }
+    },
+    {
+        "CODPRO": "17",
+        "PROVINCIA": "PICHINCHA",
+        "votos_validos": 821090,
+        "votos_blancos": 68094,
+        "votos_nulos": 93451,
+        "votos_total": 982635,
+        "ganador": "ID",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 44894,
+                "porcentaje": 5.47
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 3023,
+                "porcentaje": 0.37
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 186485,
+                "porcentaje": 22.71
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 130529,
+                "porcentaje": 15.9
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 38979,
+                "porcentaje": 4.75
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 9744,
+                "porcentaje": 1.19
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 257782,
+                "porcentaje": 31.4
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 6969,
+                "porcentaje": 0.85
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 12627,
+                "porcentaje": 1.54
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 39282,
+                "porcentaje": 4.78
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 4451,
+                "porcentaje": 0.54
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 86325,
+                "porcentaje": 10.51
+            }
+        }
+    },
+    {
+        "CODPRO": "18",
+        "PROVINCIA": "TUNGURAHUA",
+        "votos_validos": 149586,
+        "votos_blancos": 19205,
+        "votos_nulos": 35654,
+        "votos_total": 204445,
+        "ganador": "PSC",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 12498,
+                "porcentaje": 8.36
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 644,
+                "porcentaje": 0.43
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 25124,
+                "porcentaje": 16.8
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 34779,
+                "porcentaje": 23.25
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 9428,
+                "porcentaje": 6.3
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 1732,
+                "porcentaje": 1.16
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 32509,
+                "porcentaje": 21.73
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 963,
+                "porcentaje": 0.64
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1346,
+                "porcentaje": 0.9
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 5679,
+                "porcentaje": 3.8
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 969,
+                "porcentaje": 0.65
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 23915,
+                "porcentaje": 15.99
+            }
+        }
+    },
+    {
+        "CODPRO": "19",
+        "PROVINCIA": "ZAMORA CHINCHIPE",
+        "votos_validos": 18126,
+        "votos_blancos": 2622,
+        "votos_nulos": 4026,
+        "votos_total": 24774,
+        "ganador": "DP",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 1018,
+                "porcentaje": 5.62
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 588,
+                "porcentaje": 3.24
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 3415,
+                "porcentaje": 18.84
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 2103,
+                "porcentaje": 11.6
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 2536,
+                "porcentaje": 13.99
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 169,
+                "porcentaje": 0.93
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 1177,
+                "porcentaje": 6.49
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 91,
+                "porcentaje": 0.5
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 1432,
+                "porcentaje": 7.9
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 3385,
+                "porcentaje": 18.67
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 60,
+                "porcentaje": 0.33
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 2152,
+                "porcentaje": 11.87
+            }
+        }
+    },
+    {
+        "CODPRO": "20",
+        "PROVINCIA": "GALAPAGOS",
+        "votos_validos": 4418,
+        "votos_blancos": 471,
+        "votos_nulos": 787,
+        "votos_total": 5676,
+        "ganador": "PSC",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 350,
+                "porcentaje": 7.92
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 25,
+                "porcentaje": 0.57
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 897,
+                "porcentaje": 20.3
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 1147,
+                "porcentaje": 25.96
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 884,
+                "porcentaje": 20.01
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 50,
+                "porcentaje": 1.13
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 483,
+                "porcentaje": 10.93
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 45,
+                "porcentaje": 1.02
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 64,
+                "porcentaje": 1.45
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 84,
+                "porcentaje": 1.9
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 3,
+                "porcentaje": 0.07
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 386,
+                "porcentaje": 8.74
+            }
+        }
+    },
+    {
+        "CODPRO": "21",
+        "PROVINCIA": "SUCUMBIOS",
+        "votos_validos": 25439,
+        "votos_blancos": 4913,
+        "votos_nulos": 6590,
+        "votos_total": 36942,
+        "ganador": "PRE",
+        "resultados": {
+            "PCE": {
+                "candidato": "CONSERVADOR ECUATORIANO-UNION",
+                "votos": 1574,
+                "porcentaje": 6.19
+            },
+            "CFP": {
+                "candidato": "CONCENTRAC.FUERZAS POPULARES",
+                "votos": 114,
+                "porcentaje": 0.45
+            },
+            "DP": {
+                "candidato": "DEMOCRACIA POPULAR-U.D.C",
+                "votos": 5060,
+                "porcentaje": 19.89
+            },
+            "PSC": {
+                "candidato": "SOCIAL CRISTIANO",
+                "votos": 3434,
+                "porcentaje": 13.5
+            },
+            "PRE": {
+                "candidato": "ROLDOSISTA ECUATORIANO",
+                "votos": 5240,
+                "porcentaje": 20.6
+            },
+            "AN": {
+                "candidato": "ALIANZA NACIONAL",
+                "votos": 177,
+                "porcentaje": 0.7
+            },
+            "ID": {
+                "candidato": "IZQUIERDA DEMOCRATICA",
+                "votos": 2040,
+                "porcentaje": 8.02
+            },
+            "APRE": {
+                "candidato": "ACCION POPULAR REVOLUCIONAR.EC",
+                "votos": 330,
+                "porcentaje": 1.3
+            },
+            "FRA": {
+                "candidato": "FRENTE RADICAL ALFARISTA",
+                "votos": 510,
+                "porcentaje": 2.0
+            },
+            "MPD": {
+                "candidato": "MOVIMIENTO POPULAR DEMOCRATICO",
+                "votos": 3384,
+                "porcentaje": 13.3
+            },
+            "UPL": {
+                "candidato": "UNION POPULAR LATINOAMERICANA",
+                "votos": 83,
+                "porcentaje": 0.33
+            },
+            "MCNP": {
+                "candidato": "MOVIMIENTO INDEPENDIENTE CIUDADANIA",
+                "votos": 3493,
+                "porcentaje": 13.73
+            }
+        }
     }
-  },
-  {
-    "CODPRO": "17",
-    "PROVINCIA": "PICHINCHA",
-    "votos_validos": 1500000,
-    "votos_blancos": 25000,
-    "votos_nulos": 120000,
-    "votos_total": 1645000,
-    "ganador": "RC5",
-    "resultados": {
-      "ADN": {
-        "candidato": "DANIEL NOBOA AZIN",
-        "votos": 700000,
-        "porcentaje": 46.66
-      },
-      "RC5": {
-        "candidato": "LUISA GONZALEZ",
-        "votos": 800000,
-        "porcentaje": 53.34
-      }
-    }
-  },
-  {
-    "CODPRO": "09",
-    "PROVINCIA": "GUAYAS",
-    "votos_validos": 2100000,
-    "votos_blancos": 45000,
-    "votos_nulos": 180000,
-    "votos_total": 2325000,
-    "ganador": "ADN",
-    "resultados": {
-      "ADN": {
-        "candidato": "DANIEL NOBOA AZIN",
-        "votos": 1100000,
-        "porcentaje": 52.38
-      },
-      "RC5": {
-        "candidato": "LUISA GONZALEZ",
-        "votos": 1000000,
-        "porcentaje": 47.62
-      }
-    }
-  }
 ]
