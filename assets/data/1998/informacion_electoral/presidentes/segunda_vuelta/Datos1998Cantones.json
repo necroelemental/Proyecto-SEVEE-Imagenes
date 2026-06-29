@@ -1,0 +1,3782 @@
+[
+    {
+        "CODCAN": "260",
+        "CODPRO": "01",
+        "CANTON": "CUENCA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 114934,
+                "porcentaje": 74.06
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 40255,
+                "porcentaje": 25.94
+            }
+        }
+    },
+    {
+        "CODCAN": "265",
+        "CODPRO": "01",
+        "CANTON": "GUALACEO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 7313,
+                "porcentaje": 66.42
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3697,
+                "porcentaje": 33.58
+            }
+        }
+    },
+    {
+        "CODCAN": "270",
+        "CODPRO": "01",
+        "CANTON": "GIRON",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3061,
+                "porcentaje": 72.33
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1171,
+                "porcentaje": 27.67
+            }
+        }
+    },
+    {
+        "CODCAN": "275",
+        "CODPRO": "01",
+        "CANTON": "PAUTE",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5352,
+                "porcentaje": 68.72
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2436,
+                "porcentaje": 31.28
+            }
+        }
+    },
+    {
+        "CODCAN": "280",
+        "CODPRO": "01",
+        "CANTON": "SIGSIG",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5080,
+                "porcentaje": 61.79
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3141,
+                "porcentaje": 38.21
+            }
+        }
+    },
+    {
+        "CODCAN": "285",
+        "CODPRO": "01",
+        "CANTON": "SANTA ISABEL",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3463,
+                "porcentaje": 52.12
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3181,
+                "porcentaje": 47.88
+            }
+        }
+    },
+    {
+        "CODCAN": "555",
+        "CODPRO": "01",
+        "CANTON": "PUCARA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1923,
+                "porcentaje": 47.85
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2096,
+                "porcentaje": 52.15
+            }
+        }
+    },
+    {
+        "CODCAN": "780",
+        "CODPRO": "01",
+        "CANTON": "OÑA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 614,
+                "porcentaje": 58.76
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 431,
+                "porcentaje": 41.24
+            }
+        }
+    },
+    {
+        "CODCAN": "855",
+        "CODPRO": "01",
+        "CANTON": "SAN FERNANDO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1162,
+                "porcentaje": 69.75
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 504,
+                "porcentaje": 30.25
+            }
+        }
+    },
+    {
+        "CODCAN": "885",
+        "CODPRO": "01",
+        "CANTON": "NABON",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2641,
+                "porcentaje": 63.32
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1530,
+                "porcentaje": 36.68
+            }
+        }
+    },
+    {
+        "CODCAN": "915",
+        "CODPRO": "01",
+        "CANTON": "CHORDELEG",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1820,
+                "porcentaje": 61.8
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1125,
+                "porcentaje": 38.2
+            }
+        }
+    },
+    {
+        "CODCAN": "955",
+        "CODPRO": "01",
+        "CANTON": "SEVILLA DE ORO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1452,
+                "porcentaje": 69.77
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 629,
+                "porcentaje": 30.23
+            }
+        }
+    },
+    {
+        "CODCAN": "960",
+        "CODPRO": "01",
+        "CANTON": "EL PAN",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 757,
+                "porcentaje": 77.56
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 219,
+                "porcentaje": 22.44
+            }
+        }
+    },
+    {
+        "CODCAN": "990",
+        "CODPRO": "01",
+        "CANTON": "GUACHAPALA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 748,
+                "porcentaje": 69.45
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 329,
+                "porcentaje": 30.55
+            }
+        }
+    },
+    {
+        "CODCAN": "165",
+        "CODPRO": "02",
+        "CANTON": "GUARANDA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 12969,
+                "porcentaje": 50.38
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 12771,
+                "porcentaje": 49.62
+            }
+        }
+    },
+    {
+        "CODCAN": "170",
+        "CODPRO": "02",
+        "CANTON": "CHIMBO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3222,
+                "porcentaje": 55.78
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2554,
+                "porcentaje": 44.22
+            }
+        }
+    },
+    {
+        "CODCAN": "175",
+        "CODPRO": "02",
+        "CANTON": "SAN MIGUEL",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4748,
+                "porcentaje": 46.12
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5547,
+                "porcentaje": 53.88
+            }
+        }
+    },
+    {
+        "CODCAN": "180",
+        "CODPRO": "02",
+        "CANTON": "CHILLANES",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2046,
+                "porcentaje": 37.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3476,
+                "porcentaje": 62.95
+            }
+        }
+    },
+    {
+        "CODCAN": "185",
+        "CODPRO": "02",
+        "CANTON": "ECHEANDIA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2166,
+                "porcentaje": 41.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3110,
+                "porcentaje": 58.95
+            }
+        }
+    },
+    {
+        "CODCAN": "760",
+        "CODPRO": "02",
+        "CANTON": "CALUMA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1860,
+                "porcentaje": 41.1
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2666,
+                "porcentaje": 58.9
+            }
+        }
+    },
+    {
+        "CODCAN": "950",
+        "CODPRO": "02",
+        "CANTON": "LAS NAVES",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 496,
+                "porcentaje": 28.94
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1218,
+                "porcentaje": 71.06
+            }
+        }
+    },
+    {
+        "CODCAN": "235",
+        "CODPRO": "03",
+        "CANTON": "AZOGUES",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 17762,
+                "porcentaje": 71.7
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7012,
+                "porcentaje": 28.3
+            }
+        }
+    },
+    {
+        "CODCAN": "240",
+        "CODPRO": "03",
+        "CANTON": "CAÑAR",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9405,
+                "porcentaje": 54.44
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7870,
+                "porcentaje": 45.56
+            }
+        }
+    },
+    {
+        "CODCAN": "241",
+        "CODPRO": "03",
+        "CANTON": "SUSCAL",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 728,
+                "porcentaje": 42.9
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 969,
+                "porcentaje": 57.1
+            }
+        }
+    },
+    {
+        "CODCAN": "245",
+        "CODPRO": "03",
+        "CANTON": "BIBLIAN",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5324,
+                "porcentaje": 78.96
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1419,
+                "porcentaje": 21.04
+            }
+        }
+    },
+    {
+        "CODCAN": "250",
+        "CODPRO": "03",
+        "CANTON": "LA TRONCAL",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4500,
+                "porcentaje": 36.88
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7702,
+                "porcentaje": 63.12
+            }
+        }
+    },
+    {
+        "CODCAN": "765",
+        "CODPRO": "03",
+        "CANTON": "EL TAMBO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1396,
+                "porcentaje": 47.23
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1560,
+                "porcentaje": 52.77
+            }
+        }
+    },
+    {
+        "CODCAN": "905",
+        "CODPRO": "03",
+        "CANTON": "DELEG",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1505,
+                "porcentaje": 77.7
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 432,
+                "porcentaje": 22.3
+            }
+        }
+    },
+    {
+        "CODCAN": "005",
+        "CODPRO": "04",
+        "CANTON": "TULCAN",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 18727,
+                "porcentaje": 61.16
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 11894,
+                "porcentaje": 38.84
+            }
+        }
+    },
+    {
+        "CODCAN": "010",
+        "CODPRO": "04",
+        "CANTON": "MONTUFAR",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 7873,
+                "porcentaje": 61.13
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5006,
+                "porcentaje": 38.87
+            }
+        }
+    },
+    {
+        "CODCAN": "015",
+        "CODPRO": "04",
+        "CANTON": "ESPEJO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3300,
+                "porcentaje": 54.34
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2773,
+                "porcentaje": 45.66
+            }
+        }
+    },
+    {
+        "CODCAN": "020",
+        "CODPRO": "04",
+        "CANTON": "MIRA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2489,
+                "porcentaje": 52.62
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2241,
+                "porcentaje": 47.38
+            }
+        }
+    },
+    {
+        "CODCAN": "025",
+        "CODPRO": "04",
+        "CANTON": "BOLIVAR",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3250,
+                "porcentaje": 60.63
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2110,
+                "porcentaje": 39.37
+            }
+        }
+    },
+    {
+        "CODCAN": "995",
+        "CODPRO": "04",
+        "CANTON": "SAN PEDRO DE HUACA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1522,
+                "porcentaje": 49.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1581,
+                "porcentaje": 50.95
+            }
+        }
+    },
+    {
+        "CODCAN": "100",
+        "CODPRO": "05",
+        "CANTON": "LATACUNGA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 32907,
+                "porcentaje": 55.19
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 26719,
+                "porcentaje": 44.81
+            }
+        }
+    },
+    {
+        "CODCAN": "105",
+        "CODPRO": "05",
+        "CANTON": "PUJILI",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 8285,
+                "porcentaje": 44.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 10524,
+                "porcentaje": 55.95
+            }
+        }
+    },
+    {
+        "CODCAN": "110",
+        "CODPRO": "05",
+        "CANTON": "SALCEDO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 11024,
+                "porcentaje": 53.1
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9735,
+                "porcentaje": 46.9
+            }
+        }
+    },
+    {
+        "CODCAN": "115",
+        "CODPRO": "05",
+        "CANTON": "SAQUISILI",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2508,
+                "porcentaje": 39.8
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3793,
+                "porcentaje": 60.2
+            }
+        }
+    },
+    {
+        "CODCAN": "120",
+        "CODPRO": "05",
+        "CANTON": "PANGUA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2311,
+                "porcentaje": 45.88
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2726,
+                "porcentaje": 54.12
+            }
+        }
+    },
+    {
+        "CODCAN": "825",
+        "CODPRO": "05",
+        "CANTON": "LA MANA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3078,
+                "porcentaje": 29.45
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7372,
+                "porcentaje": 70.55
+            }
+        }
+    },
+    {
+        "CODCAN": "930",
+        "CODPRO": "05",
+        "CANTON": "SIGCHOS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1812,
+                "porcentaje": 33.08
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3665,
+                "porcentaje": 66.92
+            }
+        }
+    },
+    {
+        "CODCAN": "190",
+        "CODPRO": "06",
+        "CANTON": "CHAMBO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2328,
+                "porcentaje": 59.43
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1589,
+                "porcentaje": 40.57
+            }
+        }
+    },
+    {
+        "CODCAN": "195",
+        "CODPRO": "06",
+        "CANTON": "RIOBAMBA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 47736,
+                "porcentaje": 59.55
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 32431,
+                "porcentaje": 40.45
+            }
+        }
+    },
+    {
+        "CODCAN": "200",
+        "CODPRO": "06",
+        "CANTON": "GUANO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6745,
+                "porcentaje": 49.69
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 6829,
+                "porcentaje": 50.31
+            }
+        }
+    },
+    {
+        "CODCAN": "205",
+        "CODPRO": "06",
+        "CANTON": "COLTA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4871,
+                "porcentaje": 29.13
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 11849,
+                "porcentaje": 70.87
+            }
+        }
+    },
+    {
+        "CODCAN": "210",
+        "CODPRO": "06",
+        "CANTON": "GUAMOTE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3094,
+                "porcentaje": 31.07
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 6863,
+                "porcentaje": 68.93
+            }
+        }
+    },
+    {
+        "CODCAN": "215",
+        "CODPRO": "06",
+        "CANTON": "ALAUSI",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5527,
+                "porcentaje": 42.45
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7492,
+                "porcentaje": 57.55
+            }
+        }
+    },
+    {
+        "CODCAN": "220",
+        "CODPRO": "06",
+        "CANTON": "CHUNCHI",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2444,
+                "porcentaje": 56.06
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1916,
+                "porcentaje": 43.94
+            }
+        }
+    },
+    {
+        "CODCAN": "225",
+        "CODPRO": "06",
+        "CANTON": "PENIPE",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1758,
+                "porcentaje": 56.65
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1345,
+                "porcentaje": 43.35
+            }
+        }
+    },
+    {
+        "CODCAN": "830",
+        "CODPRO": "06",
+        "CANTON": "PALLATANGA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1841,
+                "porcentaje": 48.98
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1918,
+                "porcentaje": 51.02
+            }
+        }
+    },
+    {
+        "CODCAN": "900",
+        "CODPRO": "06",
+        "CANTON": "CUMANDA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1415,
+                "porcentaje": 41.03
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2034,
+                "porcentaje": 58.97
+            }
+        }
+    },
+    {
+        "CODCAN": "350",
+        "CODPRO": "07",
+        "CANTON": "MACHALA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 32895,
+                "porcentaje": 41.67
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 46040,
+                "porcentaje": 58.33
+            }
+        }
+    },
+    {
+        "CODCAN": "355",
+        "CODPRO": "07",
+        "CANTON": "SANTA ROSA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 7370,
+                "porcentaje": 32.32
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 15433,
+                "porcentaje": 67.68
+            }
+        }
+    },
+    {
+        "CODCAN": "360",
+        "CODPRO": "07",
+        "CANTON": "ZARUMA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4918,
+                "porcentaje": 57.09
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3696,
+                "porcentaje": 42.91
+            }
+        }
+    },
+    {
+        "CODCAN": "365",
+        "CODPRO": "07",
+        "CANTON": "PASAJE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9781,
+                "porcentaje": 35.85
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 17505,
+                "porcentaje": 64.15
+            }
+        }
+    },
+    {
+        "CODCAN": "370",
+        "CODPRO": "07",
+        "CANTON": "PIÑAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4750,
+                "porcentaje": 49.39
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4867,
+                "porcentaje": 50.61
+            }
+        }
+    },
+    {
+        "CODCAN": "375",
+        "CODPRO": "07",
+        "CANTON": "ARENILLAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2815,
+                "porcentaje": 38.06
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4581,
+                "porcentaje": 61.94
+            }
+        }
+    },
+    {
+        "CODCAN": "380",
+        "CODPRO": "07",
+        "CANTON": "EL GUABO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4758,
+                "porcentaje": 36.77
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 8181,
+                "porcentaje": 63.23
+            }
+        }
+    },
+    {
+        "CODCAN": "585",
+        "CODPRO": "07",
+        "CANTON": "CHILLA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 528,
+                "porcentaje": 49.86
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 531,
+                "porcentaje": 50.14
+            }
+        }
+    },
+    {
+        "CODCAN": "690",
+        "CODPRO": "07",
+        "CANTON": "PORTOVELO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2072,
+                "porcentaje": 48.78
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2176,
+                "porcentaje": 51.22
+            }
+        }
+    },
+    {
+        "CODCAN": "695",
+        "CODPRO": "07",
+        "CANTON": "HUAQUILLAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3703,
+                "porcentaje": 29.95
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 8661,
+                "porcentaje": 70.05
+            }
+        }
+    },
+    {
+        "CODCAN": "705",
+        "CODPRO": "07",
+        "CANTON": "ATAHUALPA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1486,
+                "porcentaje": 58.34
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1061,
+                "porcentaje": 41.66
+            }
+        }
+    },
+    {
+        "CODCAN": "755",
+        "CODPRO": "07",
+        "CANTON": "LAS LAJAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 818,
+                "porcentaje": 39.65
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1245,
+                "porcentaje": 60.35
+            }
+        }
+    },
+    {
+        "CODCAN": "860",
+        "CODPRO": "07",
+        "CANTON": "MARCABELI",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1210,
+                "porcentaje": 56.97
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 914,
+                "porcentaje": 43.03
+            }
+        }
+    },
+    {
+        "CODCAN": "875",
+        "CODPRO": "07",
+        "CANTON": "BALSAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 994,
+                "porcentaje": 43.52
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1290,
+                "porcentaje": 56.48
+            }
+        }
+    },
+    {
+        "CODCAN": "560",
+        "CODPRO": "08",
+        "CANTON": "ESMERALDAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 17072,
+                "porcentaje": 29.68
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 40454,
+                "porcentaje": 70.32
+            }
+        }
+    },
+    {
+        "CODCAN": "561",
+        "CODPRO": "08",
+        "CANTON": "RIO VERDE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 887,
+                "porcentaje": 21.75
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3192,
+                "porcentaje": 78.25
+            }
+        }
+    },
+    {
+        "CODCAN": "565",
+        "CODPRO": "08",
+        "CANTON": "ELOY ALFARO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1164,
+                "porcentaje": 21.01
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4376,
+                "porcentaje": 78.99
+            }
+        }
+    },
+    {
+        "CODCAN": "570",
+        "CODPRO": "08",
+        "CANTON": "MUISNE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1647,
+                "porcentaje": 32.15
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3476,
+                "porcentaje": 67.85
+            }
+        }
+    },
+    {
+        "CODCAN": "575",
+        "CODPRO": "08",
+        "CANTON": "QUININDE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 8700,
+                "porcentaje": 32.26
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 18268,
+                "porcentaje": 67.74
+            }
+        }
+    },
+    {
+        "CODCAN": "580",
+        "CODPRO": "08",
+        "CANTON": "SAN LORENZO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1305,
+                "porcentaje": 29.75
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3081,
+                "porcentaje": 70.25
+            }
+        }
+    },
+    {
+        "CODCAN": "785",
+        "CODPRO": "08",
+        "CANTON": "ATACAMES",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2661,
+                "porcentaje": 42.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3667,
+                "porcentaje": 57.95
+            }
+        }
+    },
+    {
+        "CODCAN": "095",
+        "CODPRO": "09",
+        "CANTON": "BALAO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1201,
+                "porcentaje": 29.49
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2872,
+                "porcentaje": 70.51
+            }
+        }
+    },
+    {
+        "CODCAN": "125",
+        "CODPRO": "09",
+        "CANTON": "COLIMES",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1811,
+                "porcentaje": 36.36
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3170,
+                "porcentaje": 63.64
+            }
+        }
+    },
+    {
+        "CODCAN": "385",
+        "CODPRO": "09",
+        "CANTON": "EL EMPALME",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6592,
+                "porcentaje": 29.17
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 16007,
+                "porcentaje": 70.83
+            }
+        }
+    },
+    {
+        "CODCAN": "390",
+        "CODPRO": "09",
+        "CANTON": "GUAYAQUIL",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 326835,
+                "porcentaje": 41.86
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 453870,
+                "porcentaje": 58.14
+            }
+        }
+    },
+    {
+        "CODCAN": "395",
+        "CODPRO": "09",
+        "CANTON": "YAGUACHI",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3805,
+                "porcentaje": 28.68
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9463,
+                "porcentaje": 71.32
+            }
+        }
+    },
+    {
+        "CODCAN": "400",
+        "CODPRO": "09",
+        "CANTON": "DAULE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9817,
+                "porcentaje": 27.18
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 26304,
+                "porcentaje": 72.82
+            }
+        }
+    },
+    {
+        "CODCAN": "405",
+        "CODPRO": "09",
+        "CANTON": "SALINAS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 7596,
+                "porcentaje": 50.18
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7543,
+                "porcentaje": 49.82
+            }
+        }
+    },
+    {
+        "CODCAN": "410",
+        "CODPRO": "09",
+        "CANTON": "SANTA ELENA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 12177,
+                "porcentaje": 31.94
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 25953,
+                "porcentaje": 68.06
+            }
+        }
+    },
+    {
+        "CODCAN": "415",
+        "CODPRO": "09",
+        "CANTON": "BALZAR",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4576,
+                "porcentaje": 25.4
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 13443,
+                "porcentaje": 74.6
+            }
+        }
+    },
+    {
+        "CODCAN": "420",
+        "CODPRO": "09",
+        "CANTON": "MILAGRO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 18726,
+                "porcentaje": 30.52
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 42626,
+                "porcentaje": 69.48
+            }
+        }
+    },
+    {
+        "CODCAN": "425",
+        "CODPRO": "09",
+        "CANTON": "SAMBORONDON",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4777,
+                "porcentaje": 33.91
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9311,
+                "porcentaje": 66.09
+            }
+        }
+    },
+    {
+        "CODCAN": "430",
+        "CODPRO": "09",
+        "CANTON": "SALITRE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3517,
+                "porcentaje": 21.81
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 12610,
+                "porcentaje": 78.19
+            }
+        }
+    },
+    {
+        "CODCAN": "435",
+        "CODPRO": "09",
+        "CANTON": "NARANJAL",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4171,
+                "porcentaje": 26.96
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 11302,
+                "porcentaje": 73.04
+            }
+        }
+    },
+    {
+        "CODCAN": "505",
+        "CODPRO": "09",
+        "CANTON": "EL TRIUNFO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4415,
+                "porcentaje": 34.24
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 8478,
+                "porcentaje": 65.76
+            }
+        }
+    },
+    {
+        "CODCAN": "510",
+        "CODPRO": "09",
+        "CANTON": "NARANJITO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3308,
+                "porcentaje": 26.44
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9202,
+                "porcentaje": 73.56
+            }
+        }
+    },
+    {
+        "CODCAN": "675",
+        "CODPRO": "09",
+        "CANTON": "PALESTINA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1522,
+                "porcentaje": 29.89
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3570,
+                "porcentaje": 70.11
+            }
+        }
+    },
+    {
+        "CODCAN": "715",
+        "CODPRO": "09",
+        "CANTON": "PEDRO CARBO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3072,
+                "porcentaje": 22.64
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 10498,
+                "porcentaje": 77.36
+            }
+        }
+    },
+    {
+        "CODCAN": "735",
+        "CODPRO": "09",
+        "CANTON": "PLAYAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3511,
+                "porcentaje": 36.27
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 6170,
+                "porcentaje": 63.73
+            }
+        }
+    },
+    {
+        "CODCAN": "790",
+        "CODPRO": "09",
+        "CANTON": "SIMON BOLIVAR",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1601,
+                "porcentaje": 27.03
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4322,
+                "porcentaje": 72.97
+            }
+        }
+    },
+    {
+        "CODCAN": "820",
+        "CODPRO": "09",
+        "CANTON": "DURAN",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 15288,
+                "porcentaje": 39.67
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 23252,
+                "porcentaje": 60.33
+            }
+        }
+    },
+    {
+        "CODCAN": "835",
+        "CODPRO": "09",
+        "CANTON": "A.BAQUERIZO MORENO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1370,
+                "porcentaje": 20.17
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5423,
+                "porcentaje": 79.83
+            }
+        }
+    },
+    {
+        "CODCAN": "870",
+        "CODPRO": "09",
+        "CANTON": "SANTA LUCIA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3177,
+                "porcentaje": 24.95
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9557,
+                "porcentaje": 75.05
+            }
+        }
+    },
+    {
+        "CODCAN": "890",
+        "CODPRO": "09",
+        "CANTON": "CRNL MARCELINO MARIDUENAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1331,
+                "porcentaje": 22.83
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4499,
+                "porcentaje": 77.17
+            }
+        }
+    },
+    {
+        "CODCAN": "920",
+        "CODPRO": "09",
+        "CANTON": "LOMAS DE SARGENTILLO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1430,
+                "porcentaje": 29.94
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3346,
+                "porcentaje": 70.06
+            }
+        }
+    },
+    {
+        "CODCAN": "940",
+        "CODPRO": "09",
+        "CANTON": "NOBOL / PIEDRAHITA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1362,
+                "porcentaje": 28.23
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3462,
+                "porcentaje": 71.77
+            }
+        }
+    },
+    {
+        "CODCAN": "965",
+        "CODPRO": "09",
+        "CANTON": "LA LIBERTAD",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 12312,
+                "porcentaje": 45.61
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 14681,
+                "porcentaje": 54.39
+            }
+        }
+    },
+    {
+        "CODCAN": "985",
+        "CODPRO": "09",
+        "CANTON": "GRAL. A. ELIZALDE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1150,
+                "porcentaje": 40.78
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1670,
+                "porcentaje": 59.22
+            }
+        }
+    },
+    {
+        "CODCAN": "986",
+        "CODPRO": "09",
+        "CANTON": "ISIDRO AYORA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 644,
+                "porcentaje": 26.84
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1755,
+                "porcentaje": 73.16
+            }
+        }
+    },
+    {
+        "CODCAN": "030",
+        "CODPRO": "10",
+        "CANTON": "IBARRA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 38355,
+                "porcentaje": 65.85
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 19891,
+                "porcentaje": 34.15
+            }
+        }
+    },
+    {
+        "CODCAN": "035",
+        "CODPRO": "10",
+        "CANTON": "OTAVALO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 17055,
+                "porcentaje": 60.44
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 11163,
+                "porcentaje": 39.56
+            }
+        }
+    },
+    {
+        "CODCAN": "040",
+        "CODPRO": "10",
+        "CANTON": "COTACACHI",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6936,
+                "porcentaje": 67.58
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3328,
+                "porcentaje": 32.42
+            }
+        }
+    },
+    {
+        "CODCAN": "045",
+        "CODPRO": "10",
+        "CANTON": "ANTONIO ANTE",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9177,
+                "porcentaje": 68.54
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4212,
+                "porcentaje": 31.46
+            }
+        }
+    },
+    {
+        "CODCAN": "050",
+        "CODPRO": "10",
+        "CANTON": "PIMAMPIRO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3667,
+                "porcentaje": 62.54
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2196,
+                "porcentaje": 37.46
+            }
+        }
+    },
+    {
+        "CODCAN": "055",
+        "CODPRO": "10",
+        "CANTON": "URCUQUI",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3468,
+                "porcentaje": 63.84
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1964,
+                "porcentaje": 36.16
+            }
+        }
+    },
+    {
+        "CODCAN": "290",
+        "CODPRO": "11",
+        "CANTON": "CATAMAYO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4773,
+                "porcentaje": 51.32
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4527,
+                "porcentaje": 48.68
+            }
+        }
+    },
+    {
+        "CODCAN": "295",
+        "CODPRO": "11",
+        "CANTON": "ZAPOTILLO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1380,
+                "porcentaje": 46.95
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1559,
+                "porcentaje": 53.05
+            }
+        }
+    },
+    {
+        "CODCAN": "300",
+        "CODPRO": "11",
+        "CANTON": "LOJA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 44579,
+                "porcentaje": 62.84
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 26361,
+                "porcentaje": 37.16
+            }
+        }
+    },
+    {
+        "CODCAN": "305",
+        "CODPRO": "11",
+        "CANTON": "SARAGURO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5447,
+                "porcentaje": 66.83
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2703,
+                "porcentaje": 33.17
+            }
+        }
+    },
+    {
+        "CODCAN": "310",
+        "CODPRO": "11",
+        "CANTON": "PALTAS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5098,
+                "porcentaje": 55.75
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4046,
+                "porcentaje": 44.25
+            }
+        }
+    },
+    {
+        "CODCAN": "311",
+        "CODPRO": "11",
+        "CANTON": "OLMEDO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1329,
+                "porcentaje": 72.31
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 509,
+                "porcentaje": 27.69
+            }
+        }
+    },
+    {
+        "CODCAN": "315",
+        "CODPRO": "11",
+        "CANTON": "CELICA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2637,
+                "porcentaje": 64.95
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1423,
+                "porcentaje": 35.05
+            }
+        }
+    },
+    {
+        "CODCAN": "320",
+        "CODPRO": "11",
+        "CANTON": "CALVAS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4718,
+                "porcentaje": 51.2
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4497,
+                "porcentaje": 48.8
+            }
+        }
+    },
+    {
+        "CODCAN": "325",
+        "CODPRO": "11",
+        "CANTON": "MACARA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2526,
+                "porcentaje": 40.69
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3682,
+                "porcentaje": 59.31
+            }
+        }
+    },
+    {
+        "CODCAN": "330",
+        "CODPRO": "11",
+        "CANTON": "PUYANGO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3807,
+                "porcentaje": 74.09
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1331,
+                "porcentaje": 25.91
+            }
+        }
+    },
+    {
+        "CODCAN": "335",
+        "CODPRO": "11",
+        "CANTON": "GONZANAMA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3158,
+                "porcentaje": 58.38
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2251,
+                "porcentaje": 41.62
+            }
+        }
+    },
+    {
+        "CODCAN": "340",
+        "CODPRO": "11",
+        "CANTON": "ESPINDOLA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2180,
+                "porcentaje": 48.6
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2306,
+                "porcentaje": 51.4
+            }
+        }
+    },
+    {
+        "CODCAN": "345",
+        "CODPRO": "11",
+        "CANTON": "SOZORANGA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1316,
+                "porcentaje": 61.21
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 834,
+                "porcentaje": 38.79
+            }
+        }
+    },
+    {
+        "CODCAN": "730",
+        "CODPRO": "11",
+        "CANTON": "PINDAL",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1251,
+                "porcentaje": 67.73
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 596,
+                "porcentaje": 32.27
+            }
+        }
+    },
+    {
+        "CODCAN": "740",
+        "CODPRO": "11",
+        "CANTON": "QUILANGA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 940,
+                "porcentaje": 54.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 799,
+                "porcentaje": 45.95
+            }
+        }
+    },
+    {
+        "CODCAN": "815",
+        "CODPRO": "11",
+        "CANTON": "CHAGUARPAMBA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1720,
+                "porcentaje": 55.99
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1352,
+                "porcentaje": 44.01
+            }
+        }
+    },
+    {
+        "CODCAN": "515",
+        "CODPRO": "12",
+        "CANTON": "BABAHOYO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 12324,
+                "porcentaje": 25.29
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 36413,
+                "porcentaje": 74.71
+            }
+        }
+    },
+    {
+        "CODCAN": "516",
+        "CODPRO": "12",
+        "CANTON": "VALENCIA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2173,
+                "porcentaje": 33.69
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4277,
+                "porcentaje": 66.31
+            }
+        }
+    },
+    {
+        "CODCAN": "520",
+        "CODPRO": "12",
+        "CANTON": "BABA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2342,
+                "porcentaje": 21.72
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 8439,
+                "porcentaje": 78.28
+            }
+        }
+    },
+    {
+        "CODCAN": "525",
+        "CODPRO": "12",
+        "CANTON": "VINCES",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6859,
+                "porcentaje": 29.29
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 16562,
+                "porcentaje": 70.71
+            }
+        }
+    },
+    {
+        "CODCAN": "530",
+        "CODPRO": "12",
+        "CANTON": "PUEBLO VIEJO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2317,
+                "porcentaje": 24.4
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7179,
+                "porcentaje": 75.6
+            }
+        }
+    },
+    {
+        "CODCAN": "535",
+        "CODPRO": "12",
+        "CANTON": "URDANETA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2716,
+                "porcentaje": 25.64
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7876,
+                "porcentaje": 74.36
+            }
+        }
+    },
+    {
+        "CODCAN": "540",
+        "CODPRO": "12",
+        "CANTON": "QUEVEDO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 22652,
+                "porcentaje": 36.47
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 39466,
+                "porcentaje": 63.53
+            }
+        }
+    },
+    {
+        "CODCAN": "545",
+        "CODPRO": "12",
+        "CANTON": "VENTANAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6398,
+                "porcentaje": 27.31
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 17033,
+                "porcentaje": 72.69
+            }
+        }
+    },
+    {
+        "CODCAN": "710",
+        "CODPRO": "12",
+        "CANTON": "MONTALVO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2502,
+                "porcentaje": 33.73
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4916,
+                "porcentaje": 66.27
+            }
+        }
+    },
+    {
+        "CODCAN": "750",
+        "CODPRO": "12",
+        "CANTON": "PALENQUE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1706,
+                "porcentaje": 33.14
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3442,
+                "porcentaje": 66.86
+            }
+        }
+    },
+    {
+        "CODCAN": "945",
+        "CODPRO": "12",
+        "CANTON": "BUENA FE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3660,
+                "porcentaje": 29.32
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 8821,
+                "porcentaje": 70.68
+            }
+        }
+    },
+    {
+        "CODCAN": "946",
+        "CODPRO": "12",
+        "CANTON": "MONCACHE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2219,
+                "porcentaje": 27.77
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5771,
+                "porcentaje": 72.23
+            }
+        }
+    },
+    {
+        "CODCAN": "230",
+        "CODPRO": "13",
+        "CANTON": "FLAVIO ALFARO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3802,
+                "porcentaje": 54.67
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3153,
+                "porcentaje": 45.33
+            }
+        }
+    },
+    {
+        "CODCAN": "440",
+        "CODPRO": "13",
+        "CANTON": "PORTOVIEJO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 35379,
+                "porcentaje": 37.36
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 59325,
+                "porcentaje": 62.64
+            }
+        }
+    },
+    {
+        "CODCAN": "445",
+        "CODPRO": "13",
+        "CANTON": "MONTECRISTI",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6134,
+                "porcentaje": 33.35
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 12259,
+                "porcentaje": 66.65
+            }
+        }
+    },
+    {
+        "CODCAN": "450",
+        "CODPRO": "13",
+        "CANTON": "MANTA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 29750,
+                "porcentaje": 42.06
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 40977,
+                "porcentaje": 57.94
+            }
+        }
+    },
+    {
+        "CODCAN": "455",
+        "CODPRO": "13",
+        "CANTON": "JIPIJAPA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 10402,
+                "porcentaje": 33.25
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 20882,
+                "porcentaje": 66.75
+            }
+        }
+    },
+    {
+        "CODCAN": "460",
+        "CODPRO": "13",
+        "CANTON": "24 DE MAYO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2680,
+                "porcentaje": 22.59
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9186,
+                "porcentaje": 77.41
+            }
+        }
+    },
+    {
+        "CODCAN": "465",
+        "CODPRO": "13",
+        "CANTON": "ROCAFUERTE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4373,
+                "porcentaje": 36.14
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7727,
+                "porcentaje": 63.86
+            }
+        }
+    },
+    {
+        "CODCAN": "470",
+        "CODPRO": "13",
+        "CANTON": "SANTA ANA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4984,
+                "porcentaje": 29.78
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 11752,
+                "porcentaje": 70.22
+            }
+        }
+    },
+    {
+        "CODCAN": "475",
+        "CODPRO": "13",
+        "CANTON": "SUCRE",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 12904,
+                "porcentaje": 44.8
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 15898,
+                "porcentaje": 55.2
+            }
+        }
+    },
+    {
+        "CODCAN": "480",
+        "CODPRO": "13",
+        "CANTON": "CHONE",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 20596,
+                "porcentaje": 50.23
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 20409,
+                "porcentaje": 49.77
+            }
+        }
+    },
+    {
+        "CODCAN": "485",
+        "CODPRO": "13",
+        "CANTON": "BOLIVAR",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5954,
+                "porcentaje": 43.38
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7772,
+                "porcentaje": 56.62
+            }
+        }
+    },
+    {
+        "CODCAN": "490",
+        "CODPRO": "13",
+        "CANTON": "JUNIN",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3006,
+                "porcentaje": 38.61
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4779,
+                "porcentaje": 61.39
+            }
+        }
+    },
+    {
+        "CODCAN": "495",
+        "CODPRO": "13",
+        "CANTON": "PAJAN",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4194,
+                "porcentaje": 23.99
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 13289,
+                "porcentaje": 76.01
+            }
+        }
+    },
+    {
+        "CODCAN": "500",
+        "CODPRO": "13",
+        "CANTON": "EL CARMEN",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 12354,
+                "porcentaje": 49.39
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 12661,
+                "porcentaje": 50.61
+            }
+        }
+    },
+    {
+        "CODCAN": "550",
+        "CODPRO": "13",
+        "CANTON": "TOSAGUA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5899,
+                "porcentaje": 43.95
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7522,
+                "porcentaje": 56.05
+            }
+        }
+    },
+    {
+        "CODCAN": "840",
+        "CODPRO": "13",
+        "CANTON": "PICHINCHA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3538,
+                "porcentaje": 31.32
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7757,
+                "porcentaje": 68.68
+            }
+        }
+    },
+    {
+        "CODCAN": "910",
+        "CODPRO": "13",
+        "CANTON": "PEDERNALES",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2939,
+                "porcentaje": 39.86
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4435,
+                "porcentaje": 60.14
+            }
+        }
+    },
+    {
+        "CODCAN": "970",
+        "CODPRO": "13",
+        "CANTON": "OLMEDO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 808,
+                "porcentaje": 21.1
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3022,
+                "porcentaje": 78.9
+            }
+        }
+    },
+    {
+        "CODCAN": "975",
+        "CODPRO": "13",
+        "CANTON": "PUERTO LOPEZ",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1424,
+                "porcentaje": 25.63
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4131,
+                "porcentaje": 74.37
+            }
+        }
+    },
+    {
+        "CODCAN": "590",
+        "CODPRO": "14",
+        "CANTON": "MORONA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3148,
+                "porcentaje": 40.78
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4572,
+                "porcentaje": 59.22
+            }
+        }
+    },
+    {
+        "CODCAN": "595",
+        "CODPRO": "14",
+        "CANTON": "GUALAQUIZA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2538,
+                "porcentaje": 66.91
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1255,
+                "porcentaje": 33.09
+            }
+        }
+    },
+    {
+        "CODCAN": "600",
+        "CODPRO": "14",
+        "CANTON": "LIMON INDANZA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1948,
+                "porcentaje": 67.03
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 958,
+                "porcentaje": 32.97
+            }
+        }
+    },
+    {
+        "CODCAN": "605",
+        "CODPRO": "14",
+        "CANTON": "SANTIAGO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1748,
+                "porcentaje": 64.48
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 963,
+                "porcentaje": 35.52
+            }
+        }
+    },
+    {
+        "CODCAN": "610",
+        "CODPRO": "14",
+        "CANTON": "SUCUA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2150,
+                "porcentaje": 51.28
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2043,
+                "porcentaje": 48.72
+            }
+        }
+    },
+    {
+        "CODCAN": "611",
+        "CODPRO": "14",
+        "CANTON": "LOGRONO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 536,
+                "porcentaje": 54.81
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 442,
+                "porcentaje": 45.19
+            }
+        }
+    },
+    {
+        "CODCAN": "615",
+        "CODPRO": "14",
+        "CANTON": "PALORA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1058,
+                "porcentaje": 54.71
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 876,
+                "porcentaje": 45.29
+            }
+        }
+    },
+    {
+        "CODCAN": "795",
+        "CODPRO": "14",
+        "CANTON": "HUAMBOYA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 601,
+                "porcentaje": 51.24
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 572,
+                "porcentaje": 48.76
+            }
+        }
+    },
+    {
+        "CODCAN": "925",
+        "CODPRO": "14",
+        "CANTON": "SAN JUAN BOSCO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 631,
+                "porcentaje": 82.92
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 130,
+                "porcentaje": 17.08
+            }
+        }
+    },
+    {
+        "CODCAN": "926",
+        "CODPRO": "14",
+        "CANTON": "TAISHA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 675,
+                "porcentaje": 58.9
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 471,
+                "porcentaje": 41.1
+            }
+        }
+    },
+    {
+        "CODCAN": "255",
+        "CODPRO": "15",
+        "CANTON": "EL CHACO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1014,
+                "porcentaje": 56.12
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 793,
+                "porcentaje": 43.88
+            }
+        }
+    },
+    {
+        "CODCAN": "620",
+        "CODPRO": "15",
+        "CANTON": "TENA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 8493,
+                "porcentaje": 61.65
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5284,
+                "porcentaje": 38.35
+            }
+        }
+    },
+    {
+        "CODCAN": "630",
+        "CODPRO": "15",
+        "CANTON": "AGUARICO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 538,
+                "porcentaje": 73.1
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 198,
+                "porcentaje": 26.9
+            }
+        }
+    },
+    {
+        "CODCAN": "635",
+        "CODPRO": "15",
+        "CANTON": "QUIJOS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1202,
+                "porcentaje": 77.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 358,
+                "porcentaje": 22.95
+            }
+        }
+    },
+    {
+        "CODCAN": "645",
+        "CODPRO": "15",
+        "CANTON": "FCO.DE ORELLANA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3007,
+                "porcentaje": 35.95
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5357,
+                "porcentaje": 64.05
+            }
+        }
+    },
+    {
+        "CODCAN": "700",
+        "CODPRO": "15",
+        "CANTON": "ARCHIDONA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3654,
+                "porcentaje": 59.85
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2451,
+                "porcentaje": 40.15
+            }
+        }
+    },
+    {
+        "CODCAN": "725",
+        "CODPRO": "15",
+        "CANTON": "JOYA DE LOS SACHAS",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1911,
+                "porcentaje": 34.64
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3605,
+                "porcentaje": 65.36
+            }
+        }
+    },
+    {
+        "CODCAN": "935",
+        "CODPRO": "15",
+        "CANTON": "LORETO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1507,
+                "porcentaje": 57.28
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1124,
+                "porcentaje": 42.72
+            }
+        }
+    },
+    {
+        "CODCAN": "680",
+        "CODPRO": "16",
+        "CANTON": "PASTAZA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 8191,
+                "porcentaje": 59.54
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5565,
+                "porcentaje": 40.46
+            }
+        }
+    },
+    {
+        "CODCAN": "685",
+        "CODPRO": "16",
+        "CANTON": "MERA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1388,
+                "porcentaje": 61.77
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 859,
+                "porcentaje": 38.23
+            }
+        }
+    },
+    {
+        "CODCAN": "880",
+        "CODPRO": "16",
+        "CANTON": "SANTA CLARA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 618,
+                "porcentaje": 55.18
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 502,
+                "porcentaje": 44.82
+            }
+        }
+    },
+    {
+        "CODCAN": "881",
+        "CODPRO": "16",
+        "CANTON": "ARAJUNO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 504,
+                "porcentaje": 76.6
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 154,
+                "porcentaje": 23.4
+            }
+        }
+    },
+    {
+        "CODCAN": "060",
+        "CODPRO": "17",
+        "CANTON": "QUITO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 577672,
+                "porcentaje": 77.37
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 168967,
+                "porcentaje": 22.63
+            }
+        }
+    },
+    {
+        "CODCAN": "065",
+        "CODPRO": "17",
+        "CANTON": "CAYAMBE",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 15881,
+                "porcentaje": 73.12
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5838,
+                "porcentaje": 26.88
+            }
+        }
+    },
+    {
+        "CODCAN": "070",
+        "CODPRO": "17",
+        "CANTON": "MEJIA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 13944,
+                "porcentaje": 60.9
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 8951,
+                "porcentaje": 39.1
+            }
+        }
+    },
+    {
+        "CODCAN": "075",
+        "CODPRO": "17",
+        "CANTON": "PEDRO MONCAYO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5462,
+                "porcentaje": 75.75
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1749,
+                "porcentaje": 24.25
+            }
+        }
+    },
+    {
+        "CODCAN": "080",
+        "CODPRO": "17",
+        "CANTON": "RUMINAHUI",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 19487,
+                "porcentaje": 73.38
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7071,
+                "porcentaje": 26.62
+            }
+        }
+    },
+    {
+        "CODCAN": "085",
+        "CODPRO": "17",
+        "CANTON": "SANTO DOMINGO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 46855,
+                "porcentaje": 47.57
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 51651,
+                "porcentaje": 52.43
+            }
+        }
+    },
+    {
+        "CODCAN": "770",
+        "CODPRO": "17",
+        "CANTON": "SAN MIGUEL DE LOS BANCOS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1554,
+                "porcentaje": 55.68
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1237,
+                "porcentaje": 44.32
+            }
+        }
+    },
+    {
+        "CODCAN": "895",
+        "CODPRO": "17",
+        "CANTON": "PEDRO VICENTE MALDONADO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1346,
+                "porcentaje": 54.49
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1124,
+                "porcentaje": 45.51
+            }
+        }
+    },
+    {
+        "CODCAN": "896",
+        "CODPRO": "17",
+        "CANTON": "PUERTO QUITO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1155,
+                "porcentaje": 46.09
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1351,
+                "porcentaje": 53.91
+            }
+        }
+    },
+    {
+        "CODCAN": "090",
+        "CODPRO": "18",
+        "CANTON": "TISALEO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2806,
+                "porcentaje": 64.68
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1532,
+                "porcentaje": 35.32
+            }
+        }
+    },
+    {
+        "CODCAN": "135",
+        "CODPRO": "18",
+        "CANTON": "AMBATO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 80402,
+                "porcentaje": 68.43
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 37087,
+                "porcentaje": 31.57
+            }
+        }
+    },
+    {
+        "CODCAN": "140",
+        "CODPRO": "18",
+        "CANTON": "PELILEO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9523,
+                "porcentaje": 49.6
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9676,
+                "porcentaje": 50.4
+            }
+        }
+    },
+    {
+        "CODCAN": "145",
+        "CODPRO": "18",
+        "CANTON": "PILLARO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9495,
+                "porcentaje": 60.49
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 6203,
+                "porcentaje": 39.51
+            }
+        }
+    },
+    {
+        "CODCAN": "150",
+        "CODPRO": "18",
+        "CANTON": "BAÑOS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 4848,
+                "porcentaje": 60.79
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3127,
+                "porcentaje": 39.21
+            }
+        }
+    },
+    {
+        "CODCAN": "155",
+        "CODPRO": "18",
+        "CANTON": "PATATE",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3200,
+                "porcentaje": 69.46
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1407,
+                "porcentaje": 30.54
+            }
+        }
+    },
+    {
+        "CODCAN": "160",
+        "CODPRO": "18",
+        "CANTON": "QUERO",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3871,
+                "porcentaje": 53.83
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3320,
+                "porcentaje": 46.17
+            }
+        }
+    },
+    {
+        "CODCAN": "845",
+        "CODPRO": "18",
+        "CANTON": "CEVALLOS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2012,
+                "porcentaje": 58.45
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1430,
+                "porcentaje": 41.55
+            }
+        }
+    },
+    {
+        "CODCAN": "850",
+        "CODPRO": "18",
+        "CANTON": "MOCHA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1907,
+                "porcentaje": 61.5
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1194,
+                "porcentaje": 38.5
+            }
+        }
+    },
+    {
+        "CODCAN": "130",
+        "CODPRO": "19",
+        "CANTON": "NANGARITZA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 448,
+                "porcentaje": 43.58
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 580,
+                "porcentaje": 56.42
+            }
+        }
+    },
+    {
+        "CODCAN": "655",
+        "CODPRO": "19",
+        "CANTON": "ZAMORA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 3179,
+                "porcentaje": 42.59
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 4285,
+                "porcentaje": 57.41
+            }
+        }
+    },
+    {
+        "CODCAN": "660",
+        "CODPRO": "19",
+        "CANTON": "CHINCHIPE",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1412,
+                "porcentaje": 67.62
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 676,
+                "porcentaje": 32.38
+            }
+        }
+    },
+    {
+        "CODCAN": "661",
+        "CODPRO": "19",
+        "CANTON": "PALANDA",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1083,
+                "porcentaje": 63.3
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 628,
+                "porcentaje": 36.7
+            }
+        }
+    },
+    {
+        "CODCAN": "665",
+        "CODPRO": "19",
+        "CANTON": "YACUAMBI",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 736,
+                "porcentaje": 58.69
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 518,
+                "porcentaje": 41.31
+            }
+        }
+    },
+    {
+        "CODCAN": "670",
+        "CODPRO": "19",
+        "CANTON": "YANZATZA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1410,
+                "porcentaje": 27.59
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 3700,
+                "porcentaje": 72.41
+            }
+        }
+    },
+    {
+        "CODCAN": "775",
+        "CODPRO": "19",
+        "CANTON": "EL PANGUI",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 961,
+                "porcentaje": 46.79
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1093,
+                "porcentaje": 53.21
+            }
+        }
+    },
+    {
+        "CODCAN": "980",
+        "CODPRO": "19",
+        "CANTON": "CENTINELA DEL CONDOR",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 729,
+                "porcentaje": 31.45
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1589,
+                "porcentaje": 68.55
+            }
+        }
+    },
+    {
+        "CODCAN": "800",
+        "CODPRO": "20",
+        "CANTON": "SAN CRISTOBAL",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 887,
+                "porcentaje": 47.71
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 972,
+                "porcentaje": 52.29
+            }
+        }
+    },
+    {
+        "CODCAN": "805",
+        "CODPRO": "20",
+        "CANTON": "SANTA CRUZ",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1394,
+                "porcentaje": 53.27
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1223,
+                "porcentaje": 46.73
+            }
+        }
+    },
+    {
+        "CODCAN": "810",
+        "CODPRO": "20",
+        "CANTON": "ISABELA",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 200,
+                "porcentaje": 38.68
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 317,
+                "porcentaje": 61.32
+            }
+        }
+    },
+    {
+        "CODCAN": "625",
+        "CODPRO": "21",
+        "CANTON": "LAGO AGRIO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 5371,
+                "porcentaje": 26.75
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 14706,
+                "porcentaje": 73.25
+            }
+        }
+    },
+    {
+        "CODCAN": "640",
+        "CODPRO": "21",
+        "CANTON": "SUCUMBIOS",
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 537,
+                "porcentaje": 50.85
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 519,
+                "porcentaje": 49.15
+            }
+        }
+    },
+    {
+        "CODCAN": "650",
+        "CODPRO": "21",
+        "CANTON": "PUTUMAYO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 388,
+                "porcentaje": 40.67
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 566,
+                "porcentaje": 59.33
+            }
+        }
+    },
+    {
+        "CODCAN": "720",
+        "CODPRO": "21",
+        "CANTON": "SHUSHUFINDI",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2119,
+                "porcentaje": 26.83
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5779,
+                "porcentaje": 73.17
+            }
+        }
+    },
+    {
+        "CODCAN": "745",
+        "CODPRO": "21",
+        "CANTON": "CASCALES",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 740,
+                "porcentaje": 35.2
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1362,
+                "porcentaje": 64.8
+            }
+        }
+    },
+    {
+        "CODCAN": "865",
+        "CODPRO": "21",
+        "CANTON": "GONZALO PIZARRO",
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 501,
+                "porcentaje": 27.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1351,
+                "porcentaje": 72.95
+            }
+        }
+    }
+]

@@ -1,0 +1,443 @@
+[
+    {
+        "CODPRO": "01",
+        "PROVINCIA": "AZUAY",
+        "votos_validos": 211064,
+        "votos_blancos": 2891,
+        "votos_nulos": 30526,
+        "votos_total": 244481,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 150320,
+                "porcentaje": 71.22
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 60744,
+                "porcentaje": 28.78
+            }
+        }
+    },
+    {
+        "CODPRO": "02",
+        "PROVINCIA": "BOLIVAR",
+        "votos_validos": 58849,
+        "votos_blancos": 1312,
+        "votos_nulos": 13927,
+        "votos_total": 74088,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 27507,
+                "porcentaje": 46.74
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 31342,
+                "porcentaje": 53.26
+            }
+        }
+    },
+    {
+        "CODPRO": "03",
+        "PROVINCIA": "CAÑAR",
+        "votos_validos": 67584,
+        "votos_blancos": 916,
+        "votos_nulos": 10243,
+        "votos_total": 78743,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 40620,
+                "porcentaje": 60.1
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 26964,
+                "porcentaje": 39.9
+            }
+        }
+    },
+    {
+        "CODPRO": "04",
+        "PROVINCIA": "CARCHI",
+        "votos_validos": 62766,
+        "votos_blancos": 780,
+        "votos_nulos": 9836,
+        "votos_total": 73382,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 37161,
+                "porcentaje": 59.21
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 25605,
+                "porcentaje": 40.79
+            }
+        }
+    },
+    {
+        "CODPRO": "05",
+        "PROVINCIA": "COTOPAXI",
+        "votos_validos": 126459,
+        "votos_blancos": 2379,
+        "votos_nulos": 26688,
+        "votos_total": 155526,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 61925,
+                "porcentaje": 48.97
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 64534,
+                "porcentaje": 51.03
+            }
+        }
+    },
+    {
+        "CODPRO": "06",
+        "PROVINCIA": "CHIMBORAZO",
+        "votos_validos": 152025,
+        "votos_blancos": 2769,
+        "votos_nulos": 35806,
+        "votos_total": 190600,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 77759,
+                "porcentaje": 51.15
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 74266,
+                "porcentaje": 48.85
+            }
+        }
+    },
+    {
+        "CODPRO": "07",
+        "PROVINCIA": "EL ORO",
+        "votos_validos": 194279,
+        "votos_blancos": 1561,
+        "votos_nulos": 16958,
+        "votos_total": 212798,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 78098,
+                "porcentaje": 40.2
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 116181,
+                "porcentaje": 59.8
+            }
+        }
+    },
+    {
+        "CODPRO": "08",
+        "PROVINCIA": "ESMERALDAS",
+        "votos_validos": 109950,
+        "votos_blancos": 967,
+        "votos_nulos": 11511,
+        "votos_total": 122428,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 33436,
+                "porcentaje": 30.41
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 76514,
+                "porcentaje": 69.59
+            }
+        }
+    },
+    {
+        "CODPRO": "09",
+        "PROVINCIA": "GUAYAS",
+        "votos_validos": 1205453,
+        "votos_blancos": 14165,
+        "votos_nulos": 104099,
+        "votos_total": 1323717,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 461094,
+                "porcentaje": 38.25
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 744359,
+                "porcentaje": 61.75
+            }
+        }
+    },
+    {
+        "CODPRO": "10",
+        "PROVINCIA": "IMBABURA",
+        "votos_validos": 121412,
+        "votos_blancos": 1988,
+        "votos_nulos": 25793,
+        "votos_total": 149193,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 78658,
+                "porcentaje": 64.79
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 42754,
+                "porcentaje": 35.21
+            }
+        }
+    },
+    {
+        "CODPRO": "11",
+        "PROVINCIA": "LOJA",
+        "votos_validos": 145635,
+        "votos_blancos": 1401,
+        "votos_nulos": 13875,
+        "votos_total": 160911,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 86859,
+                "porcentaje": 59.64
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 58776,
+                "porcentaje": 40.36
+            }
+        }
+    },
+    {
+        "CODPRO": "12",
+        "PROVINCIA": "LOS RIOS",
+        "votos_validos": 228063,
+        "votos_blancos": 2580,
+        "votos_nulos": 23625,
+        "votos_total": 254268,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 67868,
+                "porcentaje": 29.76
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 160195,
+                "porcentaje": 70.24
+            }
+        }
+    },
+    {
+        "CODPRO": "13",
+        "PROVINCIA": "MANABI",
+        "votos_validos": 438056,
+        "votos_blancos": 5160,
+        "votos_nulos": 42464,
+        "votos_total": 485680,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 171120,
+                "porcentaje": 39.06
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 266936,
+                "porcentaje": 60.94
+            }
+        }
+    },
+    {
+        "CODPRO": "14",
+        "PROVINCIA": "MORONA SANTIAGO",
+        "votos_validos": 27315,
+        "votos_blancos": 448,
+        "votos_nulos": 3777,
+        "votos_total": 31540,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 15033,
+                "porcentaje": 55.04
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 12282,
+                "porcentaje": 44.96
+            }
+        }
+    },
+    {
+        "CODPRO": "15",
+        "PROVINCIA": "NAPO",
+        "votos_validos": 40496,
+        "votos_blancos": 391,
+        "votos_nulos": 5066,
+        "votos_total": 45953,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 21326,
+                "porcentaje": 52.66
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 19170,
+                "porcentaje": 47.34
+            }
+        }
+    },
+    {
+        "CODPRO": "16",
+        "PROVINCIA": "PASTAZA",
+        "votos_validos": 17781,
+        "votos_blancos": 160,
+        "votos_nulos": 2313,
+        "votos_total": 20254,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 10701,
+                "porcentaje": 60.18
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 7080,
+                "porcentaje": 39.82
+            }
+        }
+    },
+    {
+        "CODPRO": "17",
+        "PROVINCIA": "PICHINCHA",
+        "votos_validos": 931295,
+        "votos_blancos": 6568,
+        "votos_nulos": 112416,
+        "votos_total": 1050279,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 683356,
+                "porcentaje": 73.38
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 247939,
+                "porcentaje": 26.62
+            }
+        }
+    },
+    {
+        "CODPRO": "18",
+        "PROVINCIA": "TUNGURAHUA",
+        "votos_validos": 183040,
+        "votos_blancos": 2400,
+        "votos_nulos": 31073,
+        "votos_total": 216513,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 118064,
+                "porcentaje": 64.5
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 64976,
+                "porcentaje": 35.5
+            }
+        }
+    },
+    {
+        "CODPRO": "19",
+        "PROVINCIA": "ZAMORA CHINCHIPE",
+        "votos_validos": 23027,
+        "votos_blancos": 191,
+        "votos_nulos": 2092,
+        "votos_total": 25310,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9958,
+                "porcentaje": 43.24
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 13069,
+                "porcentaje": 56.76
+            }
+        }
+    },
+    {
+        "CODPRO": "20",
+        "PROVINCIA": "GALAPAGOS",
+        "votos_validos": 4993,
+        "votos_blancos": 370,
+        "votos_nulos": 41,
+        "votos_total": 5404,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 2481,
+                "porcentaje": 49.69
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2512,
+                "porcentaje": 50.31
+            }
+        }
+    },
+    {
+        "CODPRO": "21",
+        "PROVINCIA": "SUCUMBIOS",
+        "votos_validos": 33939,
+        "votos_blancos": 369,
+        "votos_nulos": 4699,
+        "votos_total": 39007,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 9656,
+                "porcentaje": 28.45
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 24283,
+                "porcentaje": 71.55
+            }
+        }
+    }
+]
