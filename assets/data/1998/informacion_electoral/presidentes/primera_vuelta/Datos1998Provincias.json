@@ -1,0 +1,863 @@
+[
+    {
+        "CODPRO": "01",
+        "PROVINCIA": "AZUAY",
+        "votos_validos": 201259,
+        "votos_blancos": 12559,
+        "votos_nulos": 19573,
+        "votos_total": 233391,
+        "ganador": "ID",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 61040,
+                "porcentaje": 30.33
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 16513,
+                "porcentaje": 8.2
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 7043,
+                "porcentaje": 3.5
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 61745,
+                "porcentaje": 30.68
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 5109,
+                "porcentaje": 2.54
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 49809,
+                "porcentaje": 24.75
+            }
+        }
+    },
+    {
+        "CODPRO": "02",
+        "PROVINCIA": "BOLIVAR",
+        "votos_validos": 47304,
+        "votos_blancos": 10980,
+        "votos_nulos": 8242,
+        "votos_total": 66526,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 17166,
+                "porcentaje": 36.29
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9821,
+                "porcentaje": 20.76
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 2114,
+                "porcentaje": 4.47
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 10980,
+                "porcentaje": 23.21
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 1342,
+                "porcentaje": 2.84
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 5881,
+                "porcentaje": 12.43
+            }
+        }
+    },
+    {
+        "CODPRO": "03",
+        "PROVINCIA": "CAÑAR",
+        "votos_validos": 61029,
+        "votos_blancos": 7439,
+        "votos_nulos": 8565,
+        "votos_total": 77033,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 18426,
+                "porcentaje": 30.19
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 10900,
+                "porcentaje": 17.86
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 1717,
+                "porcentaje": 2.81
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 10228,
+                "porcentaje": 16.76
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 2601,
+                "porcentaje": 4.26
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 17157,
+                "porcentaje": 28.11
+            }
+        }
+    },
+    {
+        "CODPRO": "04",
+        "PROVINCIA": "CARCHI",
+        "votos_validos": 58669,
+        "votos_blancos": 4320,
+        "votos_nulos": 6577,
+        "votos_total": 69566,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 18169,
+                "porcentaje": 30.97
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 10286,
+                "porcentaje": 17.53
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 1551,
+                "porcentaje": 2.64
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 12588,
+                "porcentaje": 21.46
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 4239,
+                "porcentaje": 7.23
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 11836,
+                "porcentaje": 20.17
+            }
+        }
+    },
+    {
+        "CODPRO": "05",
+        "PROVINCIA": "COTOPAXI",
+        "votos_validos": 107237,
+        "votos_blancos": 16152,
+        "votos_nulos": 20084,
+        "votos_total": 143473,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 30244,
+                "porcentaje": 28.2
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 16808,
+                "porcentaje": 15.67
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 4988,
+                "porcentaje": 4.65
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 23658,
+                "porcentaje": 22.06
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 5547,
+                "porcentaje": 5.17
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 25992,
+                "porcentaje": 24.24
+            }
+        }
+    },
+    {
+        "CODPRO": "06",
+        "PROVINCIA": "CHIMBORAZO",
+        "votos_validos": 132206,
+        "votos_blancos": 17105,
+        "votos_nulos": 25749,
+        "votos_total": 175060,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 40406,
+                "porcentaje": 30.56
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 19491,
+                "porcentaje": 14.74
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 8687,
+                "porcentaje": 6.57
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 27721,
+                "porcentaje": 20.97
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 7755,
+                "porcentaje": 5.87
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 28146,
+                "porcentaje": 21.29
+            }
+        }
+    },
+    {
+        "CODPRO": "07",
+        "PROVINCIA": "EL ORO",
+        "votos_validos": 172398,
+        "votos_blancos": 10604,
+        "votos_nulos": 14013,
+        "votos_total": 197015,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 52168,
+                "porcentaje": 30.26
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 71459,
+                "porcentaje": 41.45
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 11395,
+                "porcentaje": 6.61
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 12048,
+                "porcentaje": 6.99
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 4985,
+                "porcentaje": 2.89
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 20343,
+                "porcentaje": 11.8
+            }
+        }
+    },
+    {
+        "CODPRO": "08",
+        "PROVINCIA": "ESMERALDAS",
+        "votos_validos": 89617,
+        "votos_blancos": 8136,
+        "votos_nulos": 12064,
+        "votos_total": 109817,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 26793,
+                "porcentaje": 29.9
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 44917,
+                "porcentaje": 50.12
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 3607,
+                "porcentaje": 4.02
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 5933,
+                "porcentaje": 6.62
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 2900,
+                "porcentaje": 3.24
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 5467,
+                "porcentaje": 6.1
+            }
+        }
+    },
+    {
+        "CODPRO": "09",
+        "PROVINCIA": "GUAYAS",
+        "votos_validos": 1025353,
+        "votos_blancos": 75813,
+        "votos_nulos": 86539,
+        "votos_total": 1187705,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 389592,
+                "porcentaje": 38.0
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 443661,
+                "porcentaje": 43.27
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 46268,
+                "porcentaje": 4.51
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 48044,
+                "porcentaje": 4.69
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 18133,
+                "porcentaje": 1.77
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 79655,
+                "porcentaje": 7.77
+            }
+        }
+    },
+    {
+        "CODPRO": "10",
+        "PROVINCIA": "IMBABURA",
+        "votos_validos": 109947,
+        "votos_blancos": 9526,
+        "votos_nulos": 18839,
+        "votos_total": 138312,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 36760,
+                "porcentaje": 33.43
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 14456,
+                "porcentaje": 13.15
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 3253,
+                "porcentaje": 2.96
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 21781,
+                "porcentaje": 19.81
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 3565,
+                "porcentaje": 3.24
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 30132,
+                "porcentaje": 27.41
+            }
+        }
+    },
+    {
+        "CODPRO": "11",
+        "PROVINCIA": "LOJA",
+        "votos_validos": 123272,
+        "votos_blancos": 12289,
+        "votos_nulos": 10655,
+        "votos_total": 146216,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 61512,
+                "porcentaje": 49.9
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 24426,
+                "porcentaje": 19.81
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 5227,
+                "porcentaje": 4.24
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 15224,
+                "porcentaje": 12.35
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 2108,
+                "porcentaje": 1.71
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 14775,
+                "porcentaje": 11.99
+            }
+        }
+    },
+    {
+        "CODPRO": "12",
+        "PROVINCIA": "LOS RIOS",
+        "votos_validos": 181862,
+        "votos_blancos": 23662,
+        "votos_nulos": 22120,
+        "votos_total": 227644,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 57754,
+                "porcentaje": 31.76
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 90154,
+                "porcentaje": 49.57
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 10258,
+                "porcentaje": 5.64
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 7928,
+                "porcentaje": 4.36
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 3972,
+                "porcentaje": 2.18
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 11796,
+                "porcentaje": 6.49
+            }
+        }
+    },
+    {
+        "CODPRO": "13",
+        "PROVINCIA": "MANABI",
+        "votos_validos": 338704,
+        "votos_blancos": 42283,
+        "votos_nulos": 35658,
+        "votos_total": 416645,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 105871,
+                "porcentaje": 31.26
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 129383,
+                "porcentaje": 38.2
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 55710,
+                "porcentaje": 16.45
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 16789,
+                "porcentaje": 4.96
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 4760,
+                "porcentaje": 1.41
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 26191,
+                "porcentaje": 7.73
+            }
+        }
+    },
+    {
+        "CODPRO": "14",
+        "PROVINCIA": "MORONA SANTIAGO",
+        "votos_validos": 22830,
+        "votos_blancos": 4739,
+        "votos_nulos": 3345,
+        "votos_total": 30914,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 7200,
+                "porcentaje": 31.54
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 5210,
+                "porcentaje": 22.82
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 1484,
+                "porcentaje": 6.5
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 3608,
+                "porcentaje": 15.8
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 1364,
+                "porcentaje": 5.97
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 3964,
+                "porcentaje": 17.36
+            }
+        }
+    },
+    {
+        "CODPRO": "15",
+        "PROVINCIA": "NAPO",
+        "votos_validos": 34633,
+        "votos_blancos": 6455,
+        "votos_nulos": 3979,
+        "votos_total": 45067,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 11675,
+                "porcentaje": 33.71
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 6449,
+                "porcentaje": 18.62
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 2343,
+                "porcentaje": 6.77
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 4120,
+                "porcentaje": 11.9
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 2919,
+                "porcentaje": 8.43
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 7127,
+                "porcentaje": 20.58
+            }
+        }
+    },
+    {
+        "CODPRO": "16",
+        "PROVINCIA": "PASTAZA",
+        "votos_validos": 16612,
+        "votos_blancos": 1313,
+        "votos_nulos": 1974,
+        "votos_total": 19899,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6487,
+                "porcentaje": 39.05
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 2557,
+                "porcentaje": 15.39
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 1663,
+                "porcentaje": 10.01
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 3345,
+                "porcentaje": 20.14
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 1219,
+                "porcentaje": 7.34
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 1341,
+                "porcentaje": 8.07
+            }
+        }
+    },
+    {
+        "CODPRO": "17",
+        "PROVINCIA": "PICHINCHA",
+        "votos_validos": 898951,
+        "votos_blancos": 24880,
+        "votos_nulos": 58446,
+        "votos_total": 982277,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 333661,
+                "porcentaje": 37.12
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 70760,
+                "porcentaje": 7.87
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 18334,
+                "porcentaje": 2.04
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 297355,
+                "porcentaje": 33.08
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 18154,
+                "porcentaje": 2.02
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 160687,
+                "porcentaje": 17.87
+            }
+        }
+    },
+    {
+        "CODPRO": "18",
+        "PROVINCIA": "TUNGURAHUA",
+        "votos_validos": 168455,
+        "votos_blancos": 11938,
+        "votos_nulos": 23495,
+        "votos_total": 203888,
+        "ganador": "MCNP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 51341,
+                "porcentaje": 30.48
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 17858,
+                "porcentaje": 10.6
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 7128,
+                "porcentaje": 4.23
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 32845,
+                "porcentaje": 19.5
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 2886,
+                "porcentaje": 1.71
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 56397,
+                "porcentaje": 33.48
+            }
+        }
+    },
+    {
+        "CODPRO": "19",
+        "PROVINCIA": "ZAMORA CHINCHIPE",
+        "votos_validos": 19782,
+        "votos_blancos": 2892,
+        "votos_nulos": 2086,
+        "votos_total": 24760,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 7144,
+                "porcentaje": 36.11
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 6023,
+                "porcentaje": 30.45
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 1076,
+                "porcentaje": 5.44
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 1049,
+                "porcentaje": 5.3
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 1660,
+                "porcentaje": 8.39
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 2830,
+                "porcentaje": 14.31
+            }
+        }
+    },
+    {
+        "CODPRO": "20",
+        "PROVINCIA": "GALAPAGOS",
+        "votos_validos": 5005,
+        "votos_blancos": 264,
+        "votos_nulos": 413,
+        "votos_total": 5682,
+        "ganador": "DP",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 1925,
+                "porcentaje": 38.46
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 1776,
+                "porcentaje": 35.48
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 258,
+                "porcentaje": 5.15
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 321,
+                "porcentaje": 6.41
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 44,
+                "porcentaje": 0.88
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 681,
+                "porcentaje": 13.61
+            }
+        }
+    },
+    {
+        "CODPRO": "21",
+        "PROVINCIA": "SUCUMBIOS",
+        "votos_validos": 28676,
+        "votos_blancos": 3269,
+        "votos_nulos": 4987,
+        "votos_total": 36932,
+        "ganador": "PRE",
+        "resultados": {
+            "DP": {
+                "candidato": "JAMIL MAHUAD",
+                "votos": 6780,
+                "porcentaje": 23.64
+            },
+            "PRE": {
+                "candidato": "ÁLVARO NOBOA",
+                "votos": 9759,
+                "porcentaje": 34.03
+            },
+            "AN-MIRA": {
+                "candidato": "ROSALÍA ARTEAGA",
+                "votos": 896,
+                "porcentaje": 3.12
+            },
+            "ID": {
+                "candidato": "RODRIGO BORJA",
+                "votos": 2271,
+                "porcentaje": 7.92
+            },
+            "MPD": {
+                "candidato": "MARÍA EUGENIA LIMA",
+                "votos": 2260,
+                "porcentaje": 7.88
+            },
+            "MCNP": {
+                "candidato": "FREDDY EHLERS",
+                "votos": 6710,
+                "porcentaje": 23.4
+            }
+        }
+    }
+]
